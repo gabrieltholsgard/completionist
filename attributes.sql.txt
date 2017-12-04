@@ -1,0 +1,8 @@
+(1, 'Strength')
+(2, 'Endurance')
+(3, 'Speed')
+(4, 'Agility')
+(5, 'Personality')
+(6, 'Intelligence')
+(7, 'Willpower')
+(8, 'Luck')
